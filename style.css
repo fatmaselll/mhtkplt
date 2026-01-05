@@ -13,7 +13,6 @@ body {
     justify-content: space-between;
     background-color: rgb(241, 18, 186);
     color: rgb(241, 227, 239);
-    padding: 5px 30px;
 }
 .navbar ul {
     display: flex;
@@ -177,3 +176,4 @@ h2 {
     font-size: 40px;
 
 }
+
