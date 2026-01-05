@@ -135,7 +135,6 @@ footer {
     background-color: rgb(241, 18, 186);
     color: rgb(240, 238, 238);
     text-align: center;
-    padding: 15px;
     margin-top: 20px;
 }
 
@@ -179,6 +178,7 @@ h2 {
 header {
     background-color: rgb(241, 18, 186);
 }
+
 
 
 
